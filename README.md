@@ -126,9 +126,9 @@
 <br>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sdrs81&show_icons=true&locale=en&layout=compact" alt="sdrs81" /></p>
+<p><img align="center" src="https://github-readme-stats-smoky-three-91.vercel.app/api/top-langs?username=sdrs81&show_icons=true&locale=en&layout=compact" alt="sdrs81" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sdrs81&show_icons=true&locale=en" alt="sdrs81" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-smoky-three-91.vercel.app/api?username=sdrs81&show_icons=true&locale=en" alt="sdrs81" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sdrs81&" alt="sdrs81" /></p>
 <div/>
