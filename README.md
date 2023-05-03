@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **serdardemirtas25@gmail.com**
 
-- 📄 Know about my experiences: [My Resume Link](https://drive.google.com/file/d/1fL8kqvga6r_Lp7hy-cwHNKFCIgNH81AS/view)
+- 📄 Know about my experiences: [My Resume Link](https://drive.google.com/file/d/1IyTqbsTheRiU2hI_euwGRGvxk4o8fuGN/view)
 
 
 <h3 align="left">Languages and Tools:</h3>
